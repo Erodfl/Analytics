@@ -15,7 +15,6 @@ The objective of this project is to demonstrate proficiency in data extraction a
 - <b>Data Source:</b> Kaggle (https://www.kaggle.com/): Used for accessing the dataset.
 <br />
 <h2>Features</h2>
-
 - <b>Data Extraction:</b> Utilize Tableau's data connection capabilities to extract a dataset from a specified source. The dataset will contain the following fields:
 
     - **Rank**: The ranking of the game based on its global sales.

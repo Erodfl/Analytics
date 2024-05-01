@@ -38,7 +38,6 @@ The objective of this project is to demonstrate proficiency in data extraction a
 
 
 <h2>Usage</h2>
-### Usage
 
 This sample project is designed to showcase data visualization and dashboard creation using Tableau. Here's how you can interact with the sample project:
 

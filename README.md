@@ -35,7 +35,7 @@ Link to any additional documentation or guides provided for the sample project
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Get file: <br/>
+Import Text File: <br/>
 <img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />

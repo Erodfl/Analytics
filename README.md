@@ -1,4 +1,4 @@
-<h1>Data Insights Dashboard:</h1>  ###Tableau Visualization Showcase
+<h1>Data Insights Dashboard: Tableau Visualization Showcase</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 

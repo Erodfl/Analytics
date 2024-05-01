@@ -36,10 +36,7 @@ The objective of this project is to demonstrate proficiency in data extraction a
 - <b>Tableau Public</b>: Utilized for data visualization and dashboard creation.
 - <b>Data Source:</b> Kaggle (https://www.kaggle.com/): Used for accessing the dataset.
 
-<br />
-<h2>Features</h2>
-Outline the key features or functionalities implemented in the sample project
-<br />
+
 <h2>Usage</h2>
 Explain how users can interact with the sample project and try out its features
 <br />

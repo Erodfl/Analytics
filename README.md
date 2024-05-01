@@ -38,6 +38,9 @@ Link to any additional documentation or guides provided for the sample project
 Import Text File: <br/>
 <img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+ Select file: <br/>
+<img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <br />
 Select the disk:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

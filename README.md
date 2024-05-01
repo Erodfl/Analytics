@@ -53,9 +53,6 @@ This sample project is designed to showcase data visualization and dashboard cre
 
 By interacting with this sample project, users can assess proficiency in data visualization and gain insights into delivering impactful insights through Tableau.
 
-
-<br />
-
 <h2>Documentation</h2>
 
 - **Source File**: [vgsales.csv](https://github.com/Erodfl/Erodfl/blob/main/Documents/Report%20File/vgsales.csv)

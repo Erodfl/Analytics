@@ -5,14 +5,7 @@
 <h2>Description</h2>
 Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
 
-Features: [Outline the key features or functionalities implemented in the sample project]
-Usage: [Explain how users can interact with the sample project and try out its features]
-Installation: [Provide instructions for installing and setting up the sample project on a local machine]
-Demo: [Include a link to a live demo or screenshots showcasing the sample project in action]
-Documentation: [Link to any additional documentation or guides provided for the sample project]
-Contributing: [Encourage contributions from other developers and provide guidelines for contributing to the project]
-License: [Specify the license under which the sample project is distributed]
-Acknowledgements: [Acknowledge any third-party libraries, resources, or individuals who contributed to the sample project]
+
 <br />
 <h2>Objective</h2>
 Provide a brief overview of the project, including its purpose and goals
@@ -26,15 +19,19 @@ List the tools, programming languages, libraries, and frameworks used in the pro
 <h2>Features</h2>
 Outline the key features or functionalities implemented in the sample project
 <br />
-<h2>Languages and Utilities Used</h2>
+<h2>Usage</h2>
+Explain how users can interact with the sample project and try out its features
+<br />
 
-- <b>Power BI</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
+<h2>Installation</h2>
+Provide instructions for installing and setting up the sample project on a local machine
+<br />
+<h2>Demo</h2>
+Include a link to a live demo or screenshots showcasing the sample project in action
+<br />
+<h2>Documentation</h2>
+Link to any additional documentation or guides provided for the sample project
+<br />
 <h2>Program walk-through:</h2>
 
 <p align="center">

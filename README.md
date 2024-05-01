@@ -6,9 +6,6 @@
 Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
 
 
-Project Name: [Insert project name here]
-Project Description: [Provide a brief overview of the project, including its purpose and goals]
-Objective: [Describe the main objective or problem statement that the sample project aims to address]
 Tools and Technologies Used: [List the tools, programming languages, libraries, and frameworks used in the project]
 Features: [Outline the key features or functionalities implemented in the sample project]
 Usage: [Explain how users can interact with the sample project and try out its features]
@@ -23,9 +20,11 @@ Acknowledgements: [Acknowledge any third-party libraries, resources, or individu
 Provide a brief overview of the project, including its purpose and goals
 <br />
 
+<h2>Tools and Technologies Used</h2>
+Provide a brief overview of the project, including its purpose and goals
 - <b>Power BI</b> 
 - <b>Diskpart</b>
-
+<br />
 <h2>Languages and Utilities Used</h2>
 
 - <b>Power BI</b> 

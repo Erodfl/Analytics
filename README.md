@@ -7,7 +7,7 @@ The primary objective of this project is to extract a dataset and use Tableau to
 
 <br />
 <h2>Objective</h2>
-Provide a brief overview of the project, including its purpose and goals
+The objective of this project is to demonstrate proficiency in data extraction and visualization using Tableau software. By extracting a dataset and creating a comprehensive Tableau report, the project aims to showcase the ability to transform raw data into meaningful insights and present them in an interactive and visually appealing format. Through the creation of interactive dashboards, the project seeks to provide users with a user-friendly interface for exploring and analyzing the dataset, facilitating data-driven decision-making and enhancing understanding of the underlying data patterns and trends.
 <br />
 
 <h2>Tools and Technologies Used</h2>

@@ -1,6 +1,7 @@
 <h1>Data Insights Dashboard: Tableau Visualization Showcase</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [Tableau Visualization Showcase]
+### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 The primary objective of this project is to extract a dataset and use Tableau to create a comprehensive report that provides valuable insights into the data. By leveraging Tableau's features, the report aims to present the data in a visually appealing and easily understandable format.

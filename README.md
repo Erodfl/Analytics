@@ -9,6 +9,12 @@ The primary objective of this project is to extract a dataset and use Tableau to
 <h2>Objective</h2>
 The objective of this project is to demonstrate proficiency in data extraction and visualization using Tableau software. By extracting a dataset and creating a comprehensive Tableau report, the project aims to showcase the ability to transform raw data into meaningful insights and present them in an interactive and visually appealing format. Through the creation of interactive dashboards, the project seeks to provide users with a user-friendly interface for exploring and analyzing the dataset, facilitating data-driven decision-making and enhancing understanding of the underlying data patterns and trends.
 <br />
+<h2>Tools and Technologies Used</h2>
+
+- <b>Tableau Public</b>: Utilized for data visualization and dashboard creation.
+- <b>Data Source:</b> Kaggle (https://www.kaggle.com/): Used for accessing the dataset.
+
+<br />
 <h2>Features</h2>
 
 - <b>Data Extraction:</b> Utilize Tableau's data connection capabilities to extract a dataset from a specified source. The dataset will contain the following fields:

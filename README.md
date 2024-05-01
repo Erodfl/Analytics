@@ -19,7 +19,12 @@ Contributing: [Encourage contributions from other developers and provide guideli
 License: [Specify the license under which the sample project is distributed]
 Acknowledgements: [Acknowledge any third-party libraries, resources, or individuals who contributed to the sample project]
 <br />
+<h2>Objective</h2>
+Provide a brief overview of the project, including its purpose and goals
+<br />
 
+- <b>Power BI</b> 
+- <b>Diskpart</b>
 
 <h2>Languages and Utilities Used</h2>
 

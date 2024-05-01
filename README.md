@@ -38,24 +38,24 @@ The objective of this project is to demonstrate proficiency in data extraction a
 
 
 <h2>Usage</h2>
-Explain how users can interact with the sample project and try out its features
 ### Usage
 
-This sample project is designed to provide recruiters and companies with a glimpse of my skills in data visualization and dashboard creation using Tableau. Here's how you can interact with the sample project:
+This sample project is designed to showcase data visualization and dashboard creation using Tableau. Here's how you can interact with the sample project:
 
 1. **Accessing the Tableau Report**: 
-   - The Tableau report is hosted on Tableau Public, ensuring easy access for recruiters and companies. Simply visit the provided URL to explore the interactive visualizations and dashboards.
+   - The Tableau report is hosted on Tableau Public, ensuring easy access for anyone interested in exploring the work. Simply visit the provided URL to delve into the interactive visualizations and dashboards.
 
 2. **Exploring Interactive Features**:
    - Dive into the various visualizations and dashboards to gain insights into the dataset. Use interactive controls, hover over data points for details, and click on elements for filtering.
 
 3. **Download the Dataset**:
-   - Alongside the Tableau report, the dataset used in the project will be available for download. Recruiters and companies can download the dataset to further analyze it using Tableau Desktop or similar software.
+   - Alongside the Tableau report, the dataset used in the project will be available for download. Users can download the dataset to further analyze it using Tableau Desktop or similar software.
 
 4. **Provide Valuable Feedback**:
-   - Your feedback is valuable in helping me improve my skills and refine the project. Whether it's suggestions for enhancements or reporting any issues, feel free to reach out through GitHub issues or by contacting me directly.
+   - Your feedback is crucial in helping refine the project and enhance its impact. Whether you have suggestions for improvements or encounter any issues, feel free to reach out through GitHub issues or by contacting directly.
 
-By interacting with this sample project, recruiters and companies can assess my proficiency in data visualization and gain confidence in my abilities to deliver impactful insights through Tableau.
+By interacting with this sample project, users can assess proficiency in data visualization and gain insights into capabilities in delivering impactful insights through Tableau.
+
 
 <br />
 

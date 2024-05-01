@@ -12,7 +12,7 @@ The objective of this project is to demonstrate proficiency in data extraction a
 
 <h2>Tools and Technologies Used</h2>
 
-- <b>Tableau</b> 
+- <b>Tableau Public</b> 
 
 <br />
 <h2>Features</h2>

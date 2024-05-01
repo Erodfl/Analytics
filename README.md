@@ -12,7 +12,7 @@ Provide a brief overview of the project, including its purpose and goals
 <br />
 
 <h2>Tools and Technologies Used</h2>
-List the tools, programming languages, libraries, and frameworks used in the project
+
 - <b>Tableau</b> 
 
 <br />

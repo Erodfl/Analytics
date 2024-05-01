@@ -62,8 +62,10 @@ By interacting with this sample project, users can assess proficiency in data vi
 Include a link to a live demo or screenshots showcasing the sample project in action
 <br />
 <h2>Documentation</h2>
-Link to any additional documentation or guides provided for the sample project
-<br />
+
+- **Source File**: [vgsales.csv](https://github.com/Erodfl/Erodfl/blob/main/Documents/Report%20File/vgsales.csv)
+   - This CSV file contains the raw data used in the Tableau report. Users can download the file to explore the dataset further or perform their own analyses.
+<br/>
 <h2>Program walk-through:</h2>
 
 <p align="center">

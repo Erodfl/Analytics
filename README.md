@@ -58,9 +58,6 @@ By interacting with this sample project, users can assess proficiency in data vi
 
 <br />
 
-<h2>Demo</h2>
-Include a link to a live demo or screenshots showcasing the sample project in action
-<br />
 <h2>Documentation</h2>
 
 - **Source File**: [vgsales.csv](https://github.com/Erodfl/Erodfl/blob/main/Documents/Report%20File/vgsales.csv)

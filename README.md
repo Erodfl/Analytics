@@ -13,18 +13,17 @@ The objective of this project is to demonstrate proficiency in data extraction a
 
 - <b>Data Extraction:</b>: Utilize Tableau's data connection capabilities to extract a dataset from a specified source. The dataset will contain the following fields:
 
-&nbsp;&nbsp;&nbsp;Rank: [Description of the Rank field]<br />
-&nbsp;&nbsp;&nbsp;Name: [Description of the Name field]<br />
-&nbsp;&nbsp;&nbsp;Platform: [Description of the Platform field]<br />
-&nbsp;&nbsp;&nbsp;Year: [Description of the Year field]<br />
-&nbsp;&nbsp;&nbsp;Genre: [Description of the Genre field]<br />
-&nbsp;&nbsp;&nbsp;Publisher: [Description of the Publisher field]<br />
-&nbsp;&nbsp;&nbsp;NA_Sales: [Description of the NA_Sales field]<br />
-&nbsp;&nbsp;&nbsp;EU_Sales: [Description of the EU_Sales field]<br />
-&nbsp;&nbsp;&nbsp;JP_Sales: [Description of the JP_Sales field]<br />
-&nbsp;&nbsp;&nbsp;Other_Sales: [Description of the Other_Sales field]<br />
-&nbsp;&nbsp;&nbsp;Global_Sales: [Description of the Global_Sales field]<br />
-<br />
+    - **Rank**: The ranking of the game based on its global sales.
+    - **Name**: The title of the game.
+    - **Platform**: The gaming platform on which the game was released.
+    - **Year**: The year in which the game was released.
+    - **Genre**: The category or genre of the game (e.g., Sports, Platform, Racing, Puzzle, etc.).
+    - **Publisher**: The company or entity that published the game.
+    - **NA_Sales**: The total sales of the game in North America (in millions).
+    - **EU_Sales**: The total sales of the game in Europe (in millions).
+    - **JP_Sales**: The total sales of the game in Japan (in millions).
+    - **Other_Sales**: The total sales of the game in other regions excluding NA, EU, and JP (in millions).
+    - **Global_Sales**: The total worldwide sales of the game (in millions).<br />
 
 <h2>Tools and Technologies Used</h2>
 

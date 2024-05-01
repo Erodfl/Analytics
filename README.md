@@ -53,7 +53,7 @@ This sample project is designed to showcase data visualization and dashboard cre
 4. **Provide Valuable Feedback**:
    - Your feedback is crucial in helping refine the project and enhance its impact. Whether you have suggestions for improvements or encounter any issues, feel free to reach out through GitHub issues or by contacting directly.
 
-By interacting with this sample project, users can assess proficiency in data visualization and gain insights into capabilities in delivering impactful insights through Tableau.
+By interacting with this sample project, users can assess proficiency in data visualization and gain insights into delivering impactful insights through Tableau.
 
 
 <br />

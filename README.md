@@ -1,6 +1,5 @@
 <h1>Data Insights Dashboard: Tableau Visualization Showcase</h1>
 
-
 ### [Tableau Visualization Showcase](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>

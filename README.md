@@ -36,7 +36,7 @@ Link to any additional documentation or guides provided for the sample project
 
 <p align="center">
 Get file: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>

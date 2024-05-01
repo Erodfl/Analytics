@@ -13,7 +13,7 @@ The objective of this project is to demonstrate proficiency in data extraction a
 
 - <b>Data Extraction:</b>: Utilize Tableau's data connection capabilities to extract a dataset from a specified source. The dataset will contain the following fields:
 
-Field 1: [Description of Field 1]
+&nbsp;&nbsp;&nbsp;Field 1: [Description of Field 1]
 
 <br />
 

@@ -13,8 +13,17 @@ The objective of this project is to demonstrate proficiency in data extraction a
 
 - <b>Data Extraction:</b>: Utilize Tableau's data connection capabilities to extract a dataset from a specified source. The dataset will contain the following fields:
 
-&nbsp;&nbsp;&nbsp;Field 1: [Description of Field 1]
-
+&nbsp;&nbsp;&nbsp;Rank: [Description of the Rank field]<br />
+&nbsp;&nbsp;&nbsp;Name: [Description of the Name field]<br />
+&nbsp;&nbsp;&nbsp;Platform: [Description of the Platform field]<br />
+&nbsp;&nbsp;&nbsp;Year: [Description of the Year field]<br />
+&nbsp;&nbsp;&nbsp;Genre: [Description of the Genre field]<br />
+&nbsp;&nbsp;&nbsp;Publisher: [Description of the Publisher field]<br />
+&nbsp;&nbsp;&nbsp;NA_Sales: [Description of the NA_Sales field]<br />
+&nbsp;&nbsp;&nbsp;EU_Sales: [Description of the EU_Sales field]<br />
+&nbsp;&nbsp;&nbsp;JP_Sales: [Description of the JP_Sales field]<br />
+&nbsp;&nbsp;&nbsp;Other_Sales: [Description of the Other_Sales field]<br />
+&nbsp;&nbsp;&nbsp;Global_Sales: [Description of the Global_Sales field]<br />
 <br />
 
 <h2>Tools and Technologies Used</h2>

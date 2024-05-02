@@ -78,6 +78,9 @@ Chart 1 - Global Sales by Year: <br/>
 Chart 2 - Global Sales by Genre: <br/>
 <img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image5.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Chart 3 - Global Sales by Year, Genre and Filtered by Platform: <br/>
+<img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image6.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <br />
 Enter the number of passes: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

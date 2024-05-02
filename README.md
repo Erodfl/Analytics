@@ -72,7 +72,7 @@ Import Text File: <br/>
 <br />
 <br />
 Chart 1 - Global Sales by Year: <br/>
-<img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image4a.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Chart 2 - Global Sales by Genre: <br/>

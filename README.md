@@ -75,14 +75,14 @@ Chart 1 - Global Sales by Year: <br/>
 <img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image4a.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Chart 2 - Global Sales by Genre: <br/>
-<img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image5.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Chart 2 - Global Sales by Platform: <br/>
+<img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image5a.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Chart 3 - Global Sales by Year, Genre and Filtered by Platform: <br/>
-<img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image6.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image6a.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Chart 4 - Sales Transaction Count by Platform: <br/>
-<img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image7.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image7a.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Chart 5 - Sales Dashboard: <br/>
 <img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Dashboard.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>

@@ -71,6 +71,10 @@ Import Text File: <br/>
 <img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image3.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+ File Raw Data View: <br/>
+<img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Select the disk:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />

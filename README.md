@@ -64,7 +64,7 @@ By interacting with this sample project, users can assess proficiency in data vi
 Import Text File: <br/>
 <img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
- Select file: <br/>
+ Select file VGSales: <br/>
 <img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image2.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
  File Raw Data View: <br/>

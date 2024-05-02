@@ -78,18 +78,19 @@ Chart 1 - Global Sales by Year: <br/>
 Chart 2 - Global Sales by Platform: <br/>
 <img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image5a.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Chart 3 - Global Sales by Year, Genre and Filtered by Platform: <br/>
+<br />
+Chart 3 - EU vs JP Sales: <br/>
 <img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image6a.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Chart 4 - Sales Transaction Count by Platform: <br/>
+<br />
+Chart 4 - Global Sales by Genre <br/>
 <img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image7a.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <br />
 Chart 5 - Sales Dashboard: <br/>
 <img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Dashboard.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+
 
 <!--
  ```diff

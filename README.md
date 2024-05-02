@@ -61,25 +61,27 @@ By interacting with this sample project, users can assess proficiency in data vi
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Import Text File: <br/>
+Import Text File <br/>
 <img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
- Select file VGSales: <br/>
+<br />
+ Select file VGSales <br/>
 <img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image2.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
- File Raw Data View: <br/>
+<br />
+ File Raw Data View <br/>
 <img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image3.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Chart 1 - Global Sales by Year: <br/>
+Chart 1 - Global Sales by Year <br/>
 <img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image4a.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Chart 2 - Global Sales by Platform: <br/>
+Chart 2 - Global Sales by Platform <br/>
 <img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image5a.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Chart 3 - EU vs JP Sales: <br/>
+Chart 3 - EU vs JP Sales <br/>
 <img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image6a.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -87,7 +89,7 @@ Chart 4 - Global Sales by Genre <br/>
 <img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Image7a.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Chart 5 - Sales Dashboard: <br/>
+Chart 5 - Sales Dashboard <br/>
 <img src="https://github.com/Erodfl/Erodfl/blob/main/Images/Reports/Dashboard.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
